@@ -1,0 +1,27 @@
+<Websites>
+    <Website>
+        <URL>https://www.sephora.sg/</URL>
+        <Tile>Sephora Singapore</Tile>
+        <Description>Sephora, where beauty beats. Discover the best in makeup, skin care, and more from a wide selection of beauty brands. Free shipping for orders above S$40.</Description>
+        <CreatedDate>10/30/2023 6:41:56 AM</CreatedDate>
+    </Website>
+    <Website>
+        <URL>https://www.example.com/</URL>
+        <Tile>Example Website</Tile>
+        <Description>This is an example website. Explore and discover!</Description>
+        <CreatedDate>01/15/2023 3:30:00 PM</CreatedDate>
+    </Website>
+    <Website>
+        <URL>https://www.google.com/</URL>
+        <Tile>Google</Tile>
+        <Description>Google is a multinational technology company that specializes in Internet-related services and products.</Description>
+        <CreatedDate>10/01/2023 8:00:00 AM</CreatedDate>
+    </Website>
+    <Website>
+        <URL>https://www.amazon.com/</URL>
+        <Tile>Amazon</Tile>
+        <Description>Amazon is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.</Description>
+        <CreatedDate>11/10/2023 12:00:00 PM</CreatedDate>
+    </Website>
+    <!-- Add more Website entries as needed -->
+</Websites>
